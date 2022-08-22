@@ -1,5 +1,7 @@
 # DUP_blog_management
-# Blogging-Site-Mini-Project-Requirement
+![My animated logo](assets/my-logo.svg)
+<!-- https://github.com/Richard-vinu/DUP_blog_management/blob/main/src/route/models/richard-i.netlify.app_.png
+# Blogging-Site-Mini-Project-Requirement -->
 KEEP CODING
 # Uranium
 
